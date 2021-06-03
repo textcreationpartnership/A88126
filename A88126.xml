@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and conversation of Temperance Floyd, Mary Lloyd; and Susanna Edwards three eminent witches lately condemed at Exeter assizes; together with a full account of their first agreement with the Devil: with the manner how they prosecuted their devillish sorceries. Also a full account of their tryal, examination, condemnation, and confession, at the place of execution: with many other things remarkable; and worthy observation.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88126</idno><idno type="EEBO-CITATION">99896805</idno>
+  <idno type="VID">136985</idno>
+  <idno type="EEBO-PROQUEST">2240938318</idno>
+  
+            <idno type="STC">Wing L1990A</idno>
+            <idno type="STC">ESTC R231324</idno>
+            <idno type="PROQUEST">99896805</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896805e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2445:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and conversation of Temperance Floyd, Mary Lloyd; and Susanna Edwards three eminent witches lately condemed at Exeter assizes; together with a full account of their first agreement with the Devil: with the manner how they prosecuted their devillish sorceries. Also a full account of their tryal, examination, condemnation, and confession, at the place of execution: with many other things remarkable; and worthy observation.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Edwards, Susanna, d. 1682 --  Early works to 1800.</term>
+               <term type="personal_name">Lloyd, Temperance, d. 1682 --  Early works to 1800.</term>
+               <term type="personal_name">Trembles, Mary, d. 1682 --  Early works to 1800.</term>
+               <term type="topical_term">Witchcraft --  Early works to 1800.</term>
+               <term type="topical_term">Magic --  Early works to 1800.</term>
+               <term type="topical_term">Demonology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136985:1"/>
+            <p>THE Life and Conversation OF Temperance Floyd, Mary Lloyd; and Susanna Edwards THREE <hi>Eminent Witches.</hi>
+            </p>
+            <p>Lately Condemed at <hi>Exeter</hi> Assizes; togerher with a full Account of their first Agreement with the <hi>Devil:</hi> With the manner how they <hi>prosecuted</hi> their <hi>devillish Sorceries.</hi>
+            </p>
+            <p>Also a full Account of their Tryal, Examination, Condemnati<g ref="char:EOLhyphen"/>on, and Confession, at the place of Execution: with many other Things Remarkable, and worthy Observation.</p>
+            <figure>
+               <figDesc>woodcut of eminent witch</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. W.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:136985:2"/>
+            <head>The Life and Conversation of <hi>Temperance Floyd, Mary Lloyd, and Susanna Edwards</hi> Three Notorious <hi>Witches,</hi> &amp;c.</head>
+            <p>
+               <hi>TEmperance Floyd,</hi> the most notorious of thes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Three <hi>Witches,</hi> being a poor Woman and earn<g ref="char:EOLunhyphen"/>ing her living by the <hi>Sweat</hi> of her <hi>Brows,</hi> the cunin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Old <hi>Serpent</hi> takes hold of her poverty as an oppor<g ref="char:EOLunhyphen"/>tunity of laying his bait, for tis a <hi>Maxaim</hi> in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Devils politicks allwaies to <hi>Fish in troubled waters</hi> which course he commonly takes to erect his <hi>Trophie</hi> upon the Destruction of such Miserable Creatures.</p>
+            <p>The first time the Devil tempted her was in an A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ternoon, when the poor Woman labouring unde<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an almost▪ Insupportable Burden of <hi>Broome;</hi> a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>costed her in the <hi>Shape of a comly Black Man:</hi> Wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (as it were) a civil offer of Friendly assistance, b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> she viewing him discerned his Feet to resemble tho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of an <hi>Oxe,</hi> and thereupon returnig him an answ<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in which she used the Name of GOD: <hi>(For I ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not charity enough to think she had Grace to speak in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sacred Name, otherwise then prophanely)</hi> the <hi>Temp<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> immediately <hi>transformed himself into a Flame, so<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> appeared.</hi> The Woman walks on with her Burd<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> until she arrives at her own poor Habitation, whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:136985:2"/> going along the <hi>Entery</hi> she saw (in appearance) a <hi>Black Dogg,</hi> which as she thought grew still bigger, and bigger, but that Vanishing she presently saw the same <hi>Black Gentleman,</hi> who but a little before met her in the <hi>Broome-Field,</hi> who being now grown a little wiser then he was before, proceeded with those Suttile In sinuations that he prevailed with her to consent to his compact <hi>(Drawn up in writeing, wherein he bound himself for a time, and her his forever) which she Signed with her own Blood, which the</hi> Devil (<hi>as an ingenious</hi> Chyrugion) <hi>drew from her with little or no pain.</hi>
+            </p>
+            <p>Now has this poor wretch Struck Hands with the <hi>Devil,</hi> and is become his <hi>Bon-slave;</hi> for indeed you may observe (as in this, so in all cases of the like Nature) that where the <hi>Devil</hi> once becomes a familiar there he always makes himself an insulting <hi>Master;</hi> for no sooner was the Instrument Signed, but he immediately issues out his commands; <hi>the First of which was for her to goe to one Madam</hi> Thomas, <hi>the Wife of a worthy Gentleman of</hi> Biddiford <hi>in the County of</hi> Devon, <hi>and hurt her, which she could not have done without the asistance of her Patron who conveyed her In<g ref="char:EOLhyphen"/>visible into the Room where the Gentleman and his Lady were asleep in Bed, and there did this Devilized crea<g ref="char:EOLhyphen"/>ture bruise the Side of the said Madam</hi> Thomas <hi>in a most cruel manner and then left her.</hi>
+            </p>
+            <pb facs="tcp:136985:3"/>
+            <p>I spppose this <hi>Witch</hi> (Woman I shall no more call ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) might have been taken in the Room if the <hi>De<g ref="char:EOLhyphen"/>vil</hi> had been Knave enough to have left her there, but it seems he was to honest to break covenant; Yet certain it is, he is not only Knave enough, but the original Source of all Knavery and Vice, and it is not for any respect to breach of Covenant, or other good motive that makes him for a time true to his Proselytes, but to make them further and greater Instruments of <hi>Hell,</hi> and Mischief, as his next essay makes appear.</p>
+            <p>When she had performed his first command he then Enjoynes her upon a 2d. and more pernicious enterprize <hi>(viz.)</hi> to Kill the Gentlewoman, but she was not yet become <hi>Devil</hi> enough, and there<g ref="char:EOLhyphen"/>fore refuses: Whereupon the <hi>Devil</hi> struck her a slap on the Face, where he left the print of his Fist But however, he prevailed with her so far as to be come a Thirteen Years Tormentor, to this poo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gentlewoman, who dureing all that time was afflict<g ref="char:EOLunhyphen"/>ed with some supernatural affliction or other; th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cause of all which was hidden from Physicians, no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> could she obtain from them any remedy; sometime she would be seized with Fitts of raveing, some times of laughing, but alwaies of pain.</p>
+            <p>The <hi>Minister</hi> of the <hi>Parish,</hi> observing her Fit of laughter and by his Reading, knowing somethin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:136985:3"/> more than those <hi>Countrey</hi> Physicians, had a strong presumption that they must be the Effects of Sor<g ref="char:EOLhyphen"/>cery, and therefore desired that in those Fitts, the bottoms of her Feet might be held, and covered with Hands, which Project had good successe for it alwayes stayd her laughter, and proved consequent<g ref="char:EOLhyphen"/>ly more effectual then the magical charme by which she was inchanted.</p>
+            <p>From hence I offer the Learned, (for this is cer<g ref="char:EOLhyphen"/>tain Truth) whether or no it may not be thought, that <hi>Witches</hi> do torment in Effigie, (as surely this did by Tickling) and if they do whether there may not be infallible countercharmes, successfully and laudably applyed, as we find this was, and if so whether or no it will not be highly beneficial to the Publick, (especially to those of Scotland,) to publish something to that end efectual.</p>
+            <p>The <hi>Minister</hi> abovesaid caused this <hi>Witch</hi> to be apprehended, and committed to <hi>Exeter Goale;</hi> where she remained a Month before she would confess anything, but at last she made a free confession of all that is abovesaid, with many more exploits too long here to incert, as that the <hi>Devil</hi> assumeing a cold Body had frequent carnal knowledge of her, that she used often to put to sea (in an <hi>Egg-shell</hi> as she affirmed) where she has been the destruction of many <hi>Ships:</hi> But that of which she said she most
+<pb facs="tcp:136985:4"/> repented was that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> once <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> overboard a Pret<g ref="char:EOLhyphen"/>ty Youth whose shape and Beauty; she spoke of with great commendation.</p>
+            <p>She also impeached one <hi>Mary Floyd</hi> and one <hi>Su<g ref="char:EOLhyphen"/>sanna Edwards</hi> both which had been too long and great actors in such sort of Devilising, but because my Paper will not Permit, I shall give you no trou<g ref="char:EOLhyphen"/>ble with them.</p>
+            <p>By the report spread abroad came many from all parts, to see this grand <hi>Witch,</hi> and among the rest the <hi>Minister</hi> of her own <hi>Parish,</hi> at the Sight of whom she seemed Extraordinary Joyful, and de<g ref="char:EOLhyphen"/>sired to Touch his Hands; which the <hi>Minister</hi> re<g ref="char:EOLhyphen"/>fused not, and having him by the Hand she told him she knew not but that his advice and prayers might do her good: She also put him in mind of his once Rideing between <hi>Banton</hi> and <hi>Taunton</hi> where<g ref="char:EOLhyphen"/>in the midst of the Water, his Horse would neither go forward nor backward untill he used these, or words to this effect, <hi>Well Satan thou hast not long time to continue a Torment to human Nature before thou shalt be chained up &amp;c. at which words the</hi> Devi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>fled away in the Shape of a</hi> Bull, <hi>and roaring most ter<g ref="char:EOLhyphen"/>ribly: And told him that then she was there though in<g ref="char:EOLhyphen"/>visible.</hi>
+            </p>
+            <p>This <hi>Minister</hi> gave them all 3 good and whole
+<pb n="7" facs="tcp:136985:4"/> some advice, and desired them to say the <hi>Lords Pray<g ref="char:EOLhyphen"/>er;</hi> of which the last could not repeat one word, but <hi>Temperance Floyd</hi> said all, with these alterations; when she should have said Lead us not into Temp<g ref="char:EOLhyphen"/>tation, she said Lead us into Temptation, and in<g ref="char:EOLhyphen"/>stead of Deliver us from evil, said deliver us to evil; and protested she could say no otherwaise: This <hi>Witch</hi> was 70 Years old, and had been the <hi>Devils</hi> Slave 30 Years of that time.</p>
+            <p>At the Assizes being brought upon their Tryal, they all three pleaded <hi>Guilty:</hi> Thereupon the <hi>Judg</hi> ordered the Goaler to Secure the Prisoners, but in his charge to the Jury, gave his Opinion <hi>that these three poor VVomen</hi> (as he supposed) <hi>were weary of their Lives, and that he thought it proper for them to be carryed to the Parish from whence thoy came, and that the Parish should be charged with their Maintain<g ref="char:EOLhyphen"/>ance; for that he thought their oppressing Poverty had constrained them to wish for Death:</hi> Whereupon seve<g ref="char:EOLhyphen"/>ral Neighbours, who had been great Sufferers by their <hi>diabolical Practices,</hi> moved that if these <hi>VVitches</hi> went home in peace, none of them could promise themselves a minutes Security, either of their Per<g ref="char:EOLhyphen"/>sons or Estates, and one of the Evidence offering to prove one act of their <hi>VVitchery</hi> and alledging a door to be shut, one of the Three cryed out, that is false, for the door was open; which tacitly im<g ref="char:EOLhyphen"/>plyed that she was then an Actor, and consequent<g ref="char:EOLhyphen"/>ly
+<pb n="8" facs="tcp:136985:5"/> convinced both Judg and Jury that she was guilty, and so of the other two.</p>
+            <p>At the place of Execution, <hi>Temperance Floyd</hi> made a full Confession of all that is aforesaid, with ma<g ref="char:EOLhyphen"/>ny more Particulars, too tedious here to incert: She desired all the Spectators to take warning by her and then requesting of the <hi>Minister</hi> that the 40th <hi>Psalm</hi> might be Sung, begged the Prayers of all there present; and she her self uttered this short Prayer.</p>
+            <div type="prayer">
+               <head>The Prayer.</head>
+               <p>LOrd God almighty, who desirest not the Death of a Sinner, but that he should turn from his Wicked<g ref="char:EOLhyphen"/>ness, and live; grant, I beseech thee, that this my late Repentance, may be true, and not too late: I do protest Sincerely (as far, as I know my own Heart that were I to live my Days over again, I would lead such a Life, as should leave no room for Doubt; but, seeing my Minutes are but few, I can do no more than can be done in such a Time: And my confidence is, that through the Merits of my Saviour, all my former Iniquities, shall be blotted out; which I begg for his sake alone, in whom I hope to find mercy.</p>
+               <p>
+                  <hi>At the turning over she said</hi> Lord <hi>receive my</hi> Soul.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Licensed and Entred according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
